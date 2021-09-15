@@ -1,0 +1,23 @@
+{
+    "idCounter": 5,
+    "products": [
+        {
+            "id": 2,
+            "name": "calca",
+            "description": "roupas",
+            "price": "65.00"
+        },
+        {
+            "id": 5,
+            "name": "faca",
+            "description": "talheres",
+            "price": "2.50"
+        },
+        {
+            "id": 3,
+            "name": "biscoito",
+            "description": "comidas",
+            "price": "2.00"
+        }
+    ]
+}
